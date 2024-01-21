@@ -1,3 +1,15 @@
+body {
+  min-height: 100vh;
+  background-color: antiquewhite;
+}
 .card-img {
+  width: 100%;
+}
+
+/* .article-detail-container-img {
+  flex-basis: 100%;
+}
+ */
+.article-detail-img {
   width: 100%;
 }

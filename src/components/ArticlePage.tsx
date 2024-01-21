@@ -19,7 +19,7 @@ const ArticlePage = () => {
 
       const data = await res.json();
       setArticles(data);
-      console.log("articles ", articles);
+      //console.log("articles ", articles);
     } catch (err) {
       console.log(err);
     }
